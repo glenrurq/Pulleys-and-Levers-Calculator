@@ -281,12 +281,13 @@ section article h2{
   margin-top: 40px;  
 }
 
-.main .git {
+.principal .git {
   width: 25%;
   margin: 1.8%;
+  align-self: center;
 }
 
-.main .git img {
+.principal .git img {
   width: 100%;
   height: auto;
   border-radius: 50%;
@@ -297,7 +298,7 @@ section article h2{
   transition: all 0.4s ease-in-out;
 }
 
-.main .git img:hover {
+.principal .git img:hover {
   opacity: 1;
   border: 4% solid #aeefff; 
   box-shadow: 0 0 25px #aeefff, 0 0 50px #c9f7ff, 0 0 90px #e0ffff, 0 0 120px rgba(224, 255, 255, 0.6);
